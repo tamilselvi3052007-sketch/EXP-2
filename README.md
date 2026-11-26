@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | MOHANAPRIYA G | **Reg. No.:** | 26018306 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 26/11/2026 | **Batch / Section:** | 26ODJ121 |
 
 ---
 
@@ -56,7 +56,9 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the circuit diagram here ]*
+<img width="1258" height="718" alt="image" src="https://github.com/user-attachments/assets/c71814dc-79f6-420a-8415-6bc9cbc13c9e" />
+
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/0e046c31-2aba-4f2f-8272-ceecf4155a2c" />
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
@@ -66,13 +68,15 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 161653" src="https://github.com/user-attachments/assets/d07c4f2d-e175-4e79-ba3f-2d88d07fff43" />
+
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 154255" src="https://github.com/user-attachments/assets/aa380473-64dd-49be-ba5d-5e60a4ff2122" />
+
 
 **Figure 3:** Virtual Lab simulation – load test
 
@@ -80,29 +84,13 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test
 
-| S. No. | Field current If (A) | Generated EMF Eg (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="1600" height="1546" alt="image" src="https://github.com/user-attachments/assets/3718b046-b689-426c-8487-d9a345a5f9c5" />
+
 
 ### B. Load test
 
-| S. No. | Load current IL (A) | Load voltage VL (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="1525" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdb0d4f8-07e0-47ca-93d7-b751b09f37c8" />
+
 
 ## FORMULA
 
@@ -114,13 +102,15 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-*[ Paste / draw the OCC graph here ]*
+<img width="1600" height="1533" alt="image" src="https://github.com/user-attachments/assets/97a78fd5-70d1-4907-9d53-50c500d22399" />
+
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-*[ Paste / draw the load characteristics graph here ]*
+<img width="1600" height="1314" alt="image" src="https://github.com/user-attachments/assets/8128f5d6-22ce-453f-a440-718b9e535ab3" />
+
 
 **Figure 5:** Load characteristics
 
